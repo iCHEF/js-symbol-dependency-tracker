@@ -37,3 +37,14 @@ flowchart TD
 # Usage
 
 I'm working on a CLI. But you can try it now by cloning this repository and run `cargo run`.
+
+# Demo
+
+https://github.com/iCHEF/js-symbol-dependency-tracker/assets/16910748/002d9434-3eca-4e95-b826-c09e7176e467
+
+
+
+
+
+
+
